@@ -2,7 +2,7 @@
 Te invito a que sigas leyendo para conocer el porqué de este recibimiento y lo que hay detrás de todo esto ✨   
 
 Me llamo Emanuel, pero podés decirme Ema o Rulo con total confianza 😜  Tengo 31 años y te cuento que estoy en una etapa muy linda de mi vida,
-hace no tanto tiempo me di cuenta  realmente del poder que cada uno tiene para  direccionar su vida hacia lo que realmente desea vivir y experimentar,
+hace no tanto tiempo me di cuenta  realmente del poder que cada uno tiene para  direccionar su vida hacia lo que  anhela vivir, experimentar y desarrollarse,
 desde ese momento tomé cartas en el asunto y me propuse convertir eso que es un deseo en una realidad. SER PROGRAMADOR PROFESIONAL  🤩  
 
 Desde fines del  año 2020 comencé de manera autodidacta a formarme como tal, a través de foros,  plataformas de streaming, libros,etc.
