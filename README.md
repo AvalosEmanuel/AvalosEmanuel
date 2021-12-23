@@ -8,9 +8,7 @@ desde ese momento tomé cartas en el asunto y me propuse convertir eso que es un
 Desde fines del  año 2020 comencé de manera autodidacta a formarme como tal, a través de foros,  plataformas de streaming, libros,etc.
 Ya en 2021 reduje mi carga laboral, tengo un emprendimento (que es mi fuente de ingresos actual) y le dedico todas mis tardes/noches a formarme como programador.
 
-Actualmente me encuentro cursando un programa nacional  (Argentina Programa), estoy en el último mes del mismo y de forma paralela 
-continúo aprendiendo de forma autodidacta. Estoy desarrollando mis primeros proyectos, te los comparto para que veas mis avances en los mismos y 
-como intento volverme más profesional en cada uno de ellos.
+Aquí te comparto mis primeros proyectos, irán aumentando en complejidad conforme avance con ellos, aplicando los conocimientos  adquiridos e integrandolos con mejores práctias para  desarrollar código mas legible, eficiente y robusto.. 
 
 Me siento capacitado para realizar trabajos de mediana complejidad,  de esta manera poder dedicarle mayor número de horas diarias al código, lo que 
 aumentará de forma exponencial mis capacidades, solo necesito el voto de confianza y la posibilidad de demostrar todo lo que se..
