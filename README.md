@@ -10,8 +10,6 @@ Ya en 2021 reduje mi carga laboral, tengo un emprendimento (que es mi fuente de 
 
 Aquí te comparto mis primeros proyectos, irán aumentando en complejidad conforme avance con ellos, aplicando los conocimientos  adquiridos e integrandolos con mejores práctias para  desarrollar código mas legible, eficiente y robusto.. 
 
-Me siento capacitado para realizar trabajos de mediana complejidad,  de esta manera poder dedicarle mayor número de horas diarias al código, lo que 
-aumentará de forma exponencial mis capacidades, solo necesito el voto de confianza y la posibilidad de demostrar todo lo que se..
 
 - 🔭 Actualmente estoy trabajando en  ventas..
 - 🌱 I’m currently learning  Java, Solidity, JavaScript, SQL..
