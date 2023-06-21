@@ -6,11 +6,11 @@ Desde el inicio de mi carrera autodidacta, he perfeccionado mis habilidades téc
 
 Aquí tienes algunas de mis habilidades destacadas:
 
-- 🔧 Desarrollo backend enfocado en **Python** y **Cloud Computing**.
-- 📈 Experiencia en soluciones escalables y eficientes.
-- 🔩 Conocimientos en **AWS**, **Docker**, **Git** y más.
-- 🤝 Capacidad de trabajo en equipo y proyectos desafiantes.
-- 🔍 Análisis y resolución de problemas con enfoque en la calidad del código.
+- 🔧  Desarrollo backend enfocado en **Python** y **Cloud Computing**.
+- 📈  Experiencia en soluciones escalables y eficientes.
+- 🔩  Conocimientos en **AWS**, **Docker**, **Git** y más.
+- 🤝  Capacidad de trabajo en equipo y proyectos desafiantes.
+- 🔍  Análisis y resolución de problemas con enfoque en la calidad del código.
 
 Mi objetivo es encontrar un entorno de trabajo dinámico y estimulante, donde pueda aplicar mis habilidades y conocimientos en proyectos desafiantes, aportando soluciones innovadoras y trabajando en equipo para lograr resultados excepcionales. Estoy comprometido con el aprendizaje continuo y dispuesto a trabajar arduamente para seguir creciendo profesionalmente. 🚀🌟
 
