@@ -18,6 +18,6 @@ Si buscas un BackEnd Developer entusiasta, proactivo y orientado a resultados, q
 
 ¡Espero que hablemos pronto!  💬 📞
 
-- 🌱  I’m currently learning Prompt Engineer..
-- 📫  How to reach me:  ema.avalos1990@gmail.com..
+- 🌱  I’m currently learning Prompt Engineer
+- 📫  How to reach me:  ema.avalos1990@gmail.com
   
