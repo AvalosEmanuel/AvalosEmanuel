@@ -17,7 +17,3 @@ Mi objetivo es encontrar un entorno de trabajo dinámico y estimulante, donde pu
 Si buscas un BackEnd Developer entusiasta, proactivo y orientado a resultados, que pueda agregar valor a tu equipo, ¡me encantaría hablar contigo y explorar cómo puedo contribuir a tu proyecto! No dudes en **contactarme** y comencemos esta emocionante travesía juntos.  🤝
 
 ¡Espero que hablemos pronto!  💬 📞
-
-- 🌱  I’m currently learning Prompt Engineer
-- 📫  How to reach me:  ema.avalos1990@gmail.com
-  
