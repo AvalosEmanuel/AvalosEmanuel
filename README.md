@@ -1,19 +1,18 @@
-## Desarrollador BackEnd | Apasionado por el desarrollo de software  🚀
+## BackEnd Developer | Passionate about Software Development 🚀
 
-¡Hola!  👋  Soy un **BackEnd Developer** apasionado por el desarrollo de software y comprometido con soluciones eficientes. Mi objetivo es impulsar el éxito de tu empresa a través de la implementación de tecnologías escalables y soluciones innovadoras. Con experiencia sólida en desarrollo backend y especialización en **Python** y **Cloud Computing**, estoy listo para nuevos desafíos en proyectos ambiciosos.
+Hello! 👋 I am a **BackEnd Developer** passionate about software development and committed to efficient solutions. My goal is to drive the success of your company through the implementation of scalable technologies and innovative solutions. With a strong background in backend development and specialization in **Python** and **Cloud Computing**, I am ready for new challenges in ambitious projects.
 
-Desde el inicio de mi carrera autodidacta, he perfeccionado mis habilidades técnicas y seguido de cerca las últimas tendencias y tecnologías emergentes. Creo firmemente en el desarrollo personal y en aprovechar al máximo mis habilidades para alcanzar todo mi potencial.  ✨
+Since the beginning of my self-taught career, I have honed my technical skills and closely followed the latest trends and emerging technologies. I firmly believe in personal development and maximizing my abilities to reach my full potential. ✨
 
-Aquí tienes algunas de mis habilidades destacadas:
+Here are some of my notable skills:
+- 🔧 Backend development focused on **Python** and **Cloud Computing**.
+- 📈 Experience in scalable and efficient solutions.
+- 🔩 Knowledge of **AWS**, **Docker**, **Git**, and more.
+- 🤝 Ability to work in teams and take on challenging projects.
+- 🔍 Problem analysis and resolution with a focus on code quality.
 
-- 🔧  Desarrollo backend enfocado en **Python** y **Cloud Computing**.
-- 📈  Experiencia en soluciones escalables y eficientes.
-- 🔩  Conocimientos en **AWS**, **Docker**, **Git** y más.
-- 🤝  Capacidad de trabajo en equipo y proyectos desafiantes.
-- 🔍  Análisis y resolución de problemas con enfoque en la calidad del código.
+My aim is to find a dynamic and stimulating work environment where I can apply my skills and knowledge to challenging projects, providing innovative solutions and working collaboratively to achieve exceptional results. I am committed to continuous learning and willing to work hard to continue growing professionally. 🚀
 
-Mi objetivo es encontrar un entorno de trabajo dinámico y estimulante, donde pueda aplicar mis habilidades y conocimientos en proyectos desafiantes, aportando soluciones innovadoras y trabajando en equipo para lograr resultados excepcionales. Estoy comprometido con el aprendizaje continuo y dispuesto a trabajar arduamente para seguir creciendo profesionalmente.  🚀
+If you are looking for an enthusiastic, proactive, and results-oriented BackEnd Developer who can add value to your team, I would love to speak with you and explore how I can contribute to your project! Please feel free to **contact me** and let's embark on this exciting journey together. 🤝
 
-Si buscas un BackEnd Developer entusiasta, proactivo y orientado a resultados, que pueda agregar valor a tu equipo, ¡me encantaría hablar contigo y explorar cómo puedo contribuir a tu proyecto! No dudes en **contactarme** y comencemos esta emocionante travesía juntos.  🤝
-
-¡Espero que hablemos pronto!  💬 📞
+I look forward to speaking with you soon! 💬 📞
