@@ -1,6 +1,6 @@
 ## Desarrollador BackEnd | Apasionado por el desarrollo de software  🚀
 
-¡Hola!  👋  Soy un **BackEnd Developer** apasionado por el desarrollo de software y comprometido con soluciones eficientes. Mi objetivo es impulsar el éxito a través de tecnología escalable y soluciones innovadoras. Con experiencia sólida en desarrollo backend y especialización en **Python** y **Cloud Computing**, estoy listo para nuevos desafíos en proyectos ambiciosos.
+¡Hola!  👋  Soy un **BackEnd Developer** apasionado por el desarrollo de software y comprometido con soluciones eficientes. Mi objetivo es impulsar el éxito de tu empresa a través de la implementación de tecnologías escalables y soluciones innovadoras. Con experiencia sólida en desarrollo backend y especialización en **Python** y **Cloud Computing**, estoy listo para nuevos desafíos en proyectos ambiciosos.
 
 Desde el inicio de mi carrera autodidacta, he perfeccionado mis habilidades técnicas y seguido de cerca las últimas tendencias y tecnologías emergentes. Creo firmemente en el desarrollo personal y en aprovechar al máximo mis habilidades para alcanzar todo mi potencial.  ✨
 
