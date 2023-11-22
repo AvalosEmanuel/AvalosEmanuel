@@ -1,19 +1,17 @@
 ## 🚀 BackEnd Developer | Especializado en Python y AWS | 
 ## Explorando Generative AI con 🦜️🔗LangChain
 
-Hola! 👋 Soy un desarrollador backend apasionado por la creación de software eficiente y escalable. Me especializo en Python y AWS. Actualmente me estoy sumergiendo en el mundo de la Generative AI, con un enfoque particular en el uso de LangChain.
+Hola! 👋 Soy un desarrollador backend apasionado por la creación de software eficiente y escalable. Me especializo en **Python** y **AWS**. Actualmente me estoy sumergiendo en el mundo de la **Generative AI**, con un enfoque particular en el uso de **LangChain**.
 
 Mis Proyectos y Experiencia:
+- **Automatización con Google Ad Manager API**: Un proyecto donde combiné Python y AWS para optimizar procesos complejos.
+- **Generative AI**: Actualmente trabajando en proyectos que utilizan LangChain, explorando las posibilidades de esta tecnología emergente.
+- **Máster en Prompt Engineering**: Recientemente completé este programa, profundizando en mi comprensión de la Generative AI.
 
-- Automatización con Google Ad Manager API: Un proyecto donde combiné Python y AWS para optimizar procesos complejos.
-- Estudio de Generative AI: Actualmente trabajando en proyectos que utilizan LangChain, explorando las posibilidades de esta tecnología emergente.
-- Máster en Prompt Engineering: Recientemente completé este programa, profundizando en mi comprensión de la IA generativa.
-  
 Habilidades Destacadas:
-
-- 🔧 Desarrollo backend: Python, Cloud Computing (AWS)
-- 🧠 Generative AI: LangChain, Prompt Engineering
-- 🔩 Herramientas: AWS, Docker, Git
+- 🔧 **Desarrollo backend**: Python, Cloud Computing (AWS)
+- 🧠 **Generative AI**: LangChain, Prompt Engineering
+- 🔩 **Herramientas**: Docker, Git, Postman, LangSmith
 - 🤝 Colaboración en equipos multidisciplinarios
 - 🔍 Análisis y resolución de problemas con un enfoque en la calidad del código
   
