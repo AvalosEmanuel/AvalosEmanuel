@@ -5,8 +5,8 @@ Hola! 👋 Soy un desarrollador backend apasionado por la creación de software 
 
 Mis Proyectos y Experiencia:
 - **Automatización con Google Ad Manager API**: Un proyecto donde combiné Python y AWS para optimizar procesos complejos.
-- **Generative AI**: Actualmente trabajando en proyectos que utilizan LangChain, explorando las posibilidades de esta tecnología emergente.
 - **Máster en Prompt Engineering**: Recientemente completé este programa, profundizando en mi comprensión de la Generative AI.
+- **Generative AI**: Actualmente trabajando en proyectos que utilizan LangChain, explorando esta tecnología emergente.
 
 
 Habilidades Destacadas:
