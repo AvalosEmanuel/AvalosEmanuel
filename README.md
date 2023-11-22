@@ -1,18 +1,20 @@
-## BackEnd Developer | Passionate about Software Development 🚀
+## 🚀 BackEnd Developer | Especializado en Python y AWS | Explorando Generative AI con LangChain
 
-Hello! 👋 I am a **BackEnd Developer** passionate about software development and committed to efficient solutions. My goal is to drive the success of your company through the implementation of scalable technologies and innovative solutions. With a strong background in backend development and specialization in **Python** and **Cloud Computing**, I am ready for new challenges in ambitious projects.
+Hola! 👋 Soy un desarrollador backend apasionado por la creación de software eficiente y escalable. Me especializo en Python y AWS, y actualmente estoy sumergiéndome en el mundo de la Generative AI, con un enfoque particular en el uso de LangChain.
 
-Since the beginning of my self-taught career, I have honed my technical skills and closely followed the latest trends and emerging technologies. I firmly believe in personal development and maximizing my abilities to reach my full potential. ✨
+Mis Proyectos y Experiencia:
 
-Here are some of my notable skills:
-- 🔧 Backend development focused on **Python** and **Cloud Computing**.
-- 📈 Experience in scalable and efficient solutions.
-- 🔩 Knowledge of **AWS**, **Docker**, **Git**, and more.
-- 🤝 Ability to work in teams and take on challenging projects.
-- 🔍 Problem analysis and resolution with a focus on code quality.
+Automatización con Google Ad Manager API: Un proyecto donde combiné Python y AWS para optimizar procesos complejos.
+Estudio de Generative AI: Actualmente trabajando en proyectos que utilizan LangChain, explorando las posibilidades de esta tecnología emergente.
+Máster en Prompt Engineering: Recientemente completé este programa, profundizando en mi comprensión de la IA generativa.
+Habilidades Destacadas:
 
-My aim is to find a dynamic and stimulating work environment where I can apply my skills and knowledge to challenging projects, providing innovative solutions and working collaboratively to achieve exceptional results. I am committed to continuous learning and willing to work hard to continue growing professionally. 🚀
+- 🔧 Desarrollo backend: Python, Cloud Computing (AWS)
+- 🧠 Generative AI: LangChain, Prompt Engineering
+- 🔩 Herramientas: AWS, Docker, Git
+- 🤝 Colaboración en equipos multidisciplinarios
+- 🔍 Análisis y resolución de problemas con un enfoque en la calidad del código
+  
+Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes, especialmente aquellos que empujan los límites de la tecnología y la innovación. Si estás interesado en trabajar juntos o simplemente quieres hablar sobre tecnología y programación, ¡no dudes en contactarme!
 
-If you are looking for an enthusiastic, proactive, and results-oriented BackEnd Developer who can add value to your team, I would love to speak with you and explore how I can contribute to your project! Please feel free to **contact me** and let's embark on this exciting journey together. 🤝
-
-I look forward to speaking with you soon! 💬 📞
+Hablemos! 💬
