@@ -1,7 +1,5 @@
 ## Software Developer 💻 Especializado en Python y AWS
-## Explorando:
-### - |>   🤖 Agents AI  <| 
-### - |>  🦜️🔗 LangChain <|
+## Interesado en >> 🤖 Agents AI  ||  🦜️🔗 LangChain <<
 
 Hola! 👋 Soy un desarrollador backend apasionado por la creación de software eficiente y escalable. Me especializo en **Python** y **AWS**. Actualmente me estoy sumergiendo en el mundo de la **Generative AI**, con un enfoque particular en el uso de **LangChain**.
 
